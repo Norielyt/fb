@@ -31,7 +31,7 @@
     "DEFAULT": "https://t.co/FmmKcVl3ud"
   },
   "counter": {
-    "key": "norieldev",
+    "key": "norieldev2",
     "titles": {
       "US": "NORIEL DEV USA",
       "CA": "NORIEL DEV CA",
@@ -64,3 +64,4 @@
   ],
   "allowedUrlParams": ["id", "page", "view"]
 }
+
