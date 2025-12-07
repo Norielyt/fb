@@ -14,10 +14,10 @@
       ],
       "percentages": [30, 70]
     },
-    "MX": {
+    "IT": {
       "links": [
-        "https://t.co/J9kF7NnkT2",
-        "https://t.co/y5IrJWOLzN"
+        "https://google.com",
+        "https://youtube.com"
       ],
       "percentages": [30, 70]
     },
@@ -64,3 +64,4 @@
   ],
   "allowedUrlParams": ["id", "page", "view"]
 }
+
