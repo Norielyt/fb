@@ -48,7 +48,7 @@
     "DEFAULT": "https://flagcdn.com/w320/un.png"
   },
   "settings": {
-    "instantRedirectMode": false,
+    "instantRedirectMode": true,
     "minWaitTime": 1500,
     "maxWaitTime": 3000,
     "enableLogging": true,
@@ -64,6 +64,7 @@
   ],
   "allowedUrlParams": ["id", "page", "view"]
 }
+
 
 
 
