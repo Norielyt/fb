@@ -48,7 +48,7 @@
     "DEFAULT": "https://flagcdn.com/w320/un.png"
   },
   "settings": {
-    "instantRedirectMode": true,
+    "instantRedirectMode": false,
     "minWaitTime": 1500,
     "maxWaitTime": 3000,
     "enableLogging": true,
@@ -56,7 +56,7 @@
     "vpnDetectionThreshold": 60
   },
   "adScripts": [
-    "//pl28139070.effectivegatecpm.com/8e/36/0e/8e360e533ea43585d495c2e57b3c0ebf.js"
+    ""
   ],
   "adultDomains": [
     "zvideosx.com",
@@ -64,6 +64,7 @@
   ],
   "allowedUrlParams": ["id", "page", "view"]
 }
+
 
 
 
